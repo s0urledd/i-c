@@ -92,7 +92,7 @@ Tests cover case creation, argument submission, full resolution flow with mocked
 
 - **Network:** Testnet Bradbury
 - **Contract:** 0xFd427fF51926aA5112BC07a9b1Fa217899928820
-- **Explorer:** https://explorer-bradbury.genlayer.com/contracts/0xFd427fF51926aA5112BC07a9b1Fa217899928820
+- **Explorer:** https://explorer-bradbury.genlayer.com/address/0xFd427fF51926aA5112BC07a9b1Fa217899928820
 
 ## Live Example
 
